@@ -67,10 +67,10 @@ typedef struct graph
 
 ### 运行截图示例
 
-![main](images/main.png)
+![main](https://github.com/TyrantJoy/NCIAE_Data_Structure/blob/master/images/main.png)
 
-![user](images/user.png)
+![user](https://github.com/TyrantJoy/NCIAE_Data_Structure/blob/master/images/user.png)
 
-![rank](images/rank.png)
+![rank](https://github.com/TyrantJoy/NCIAE_Data_Structure/blob/master/images/rank.png)
 
-![map](images/map.png)
+![map](https://github.com/TyrantJoy/NCIAE_Data_Structure/blob/master/images/map.png)
