@@ -65,3 +65,12 @@ typedef struct graph
 }Graph, *PGraph;
 ```
 
+### 运行截图示例
+
+![main](images/main.png)
+
+![user](images/user.png)
+
+![rank](images/rank.png)
+
+![map](images/map.png)
